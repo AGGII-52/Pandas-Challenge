@@ -1,5 +1,6 @@
 # Pandas-Challenge
 PyCitySchools Data Analysis Observations
+
 Charter schools have significantly higher averages in both math and reading, and in turn higher percentages overall passing.  
 
 ![Education](Images/education.png)
